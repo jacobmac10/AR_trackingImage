@@ -1,5 +1,5 @@
 # AR Foundation Samples
-Example projects that use *AR Foundation* and demonstrate its functionality with sample assets and components.
+Ejemplo de AR foundation trabajado en la materia de sistemas interactivos, utilizando Unity, para hacer un trabajo sobre interactuar en realidad aumentada. 
 
 Compatible with Unity 2019.1 and later.
 
